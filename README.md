@@ -1,0 +1,2 @@
+# ShellExecute
+#RequireAdmin Run("explorer.exe Paint3D:") Run("explorer.exe Paint 3D:") ShellExecute("PaintStudio.View.exe://", Null, Null, "open") Run("explorer.exe Microsoft.MSPaint:") Run("explorer.exe Microsoft.MSPaint_8wekyb3d8bbwe:") ShellExecute("C:\Program Files\WindowsApps\Microsoft.MSPaint_5.1902.13017.0_x64__8wekyb3d8bbwe\PaintStudio.View.exe") Run("explorer.exe PaintStudio_View.App:") ShellExecute("Microsoft.MSPaint://", Null, Null, "open"
